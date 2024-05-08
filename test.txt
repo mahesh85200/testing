@@ -1,1 +1,3 @@
-this is my second file
+create a file in the local disk
+open git bash here (or) run command of cmd in the folder
+git into
