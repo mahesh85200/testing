@@ -1,3 +1,11 @@
 create a file in the local disk
-open git bash here (or) run command of cmd in the folder
+open git bash here (or) run a command of cmd in the folder
 git into
+git branch
+git status 
+git add
+git commit -m"comment for the file of file"
+git push origin name like master, main
+git branch -a  (disply  for all branches)
+git checkout <branch name>  ( for changeing branch)
+git checkout -b<new branch name>  (For createing new branch and shifting to that branch)
